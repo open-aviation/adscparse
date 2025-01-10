@@ -1,0 +1,2028 @@
+Registration: A7-ANR    ICAO ID: 06a12e    ATSU Adress: BDOCAYA - Bodo Oceanic
+Channel Frequency: 1526377000
+/BDOCAYA.ADS.A7-ANR073759D0C997088B86BC1F0D377770C71C488B805B38E698AB9AC88B80A626
+Tag 07 Basic report: 3759D0C997088B86BC1F
+    Latitude: 77.83710479736328
+    Longitude: 35.43571472167969
+    Altitude: 35000.0 ft
+    Timestamp: 2023-07-07 15:07:11.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 377770C71C488B805B38E698AB9AC88B80
+  Next waypoint:
+    Lat: 77.99983978271484
+    Lon: 34.9998664855957
+    Alt: 35000.0 ft
+    ETA: 2023-07-07 15:08:42.000
+  Next+1 waypoint:
+    Lat: 80.01668930053711
+    Lon: 30.164852142333984
+    Alt: 35000.0 ft
+CRC: A626
+
+Registration: N790AN    ICAO ID: aab812    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526377000
+/YQXE2YA.ADS.N790AN07248C0740BE894706D11D0C041331E798200D238E3F1C71C94707C0222226E38E49470010553D3E2848F8
+Tag 07 Basic report: 248C0740BE894706D11D
+    Latitude: 51.39404296875
+    Longitude: -33.61919403076172
+    Altitude: 38000.0 ft
+    Timestamp: 2023-07-07 15:07:16.250
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041331E79820
+    Flight ID: AAL199
+Tag 13 Predicted Route: 238E3F1C71C94707C0222226E38E494700
+  Next waypoint:
+    Lat: 49.99998092651367
+    Lon: -40.00001907348633
+    Alt: 38000.0 ft
+    ETA: 2023-07-07 15:40:20.250
+  Next+1 waypoint:
+    Lat: 47.99995422363281
+    Lon: -49.99998092651367
+    Alt: 38000.0 ft
+Tag 16 Meteorological data: 553D3E28
+    Wind speed: 85.0 kt
+    True wind direction: 343.828125 deg
+    Temperature: -59.0 C
+CRC: 48F8
+
+Registration: PH-BKC    ICAO ID: 485b43    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.PH-BKC03030724075FB30FC84C86D89F0C2CC377D778200D23E93FAAAAC84D01C0238E3F8E39084D000E5CA0E4400C104AB93E686A4F
+Tag 03 Acknowledgement: 03
+    Contract Number: 3
+Tag 07 Basic report: 24075FB30FC84C86D89F
+    Latitude: 50.665340423583984
+    Longitude: -13.524341583251953
+    Altitude: 33992.0 ft
+    Timestamp: 2023-07-07 15:07:18.125
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 2CC377D77820
+    Flight ID: KLM757
+Tag 13 Predicted Route: 23E93FAAAAC84D01C0238E3F8E39084D00
+  Next waypoint:
+    Lat: 50.49985885620117
+    Lon: -14.999942779541016
+    Alt: 34000.0 ft
+    ETA: 2023-07-07 15:14:46.125
+  Next+1 waypoint:
+    Lat: 49.99998092651367
+    Lon: -19.999923706054688
+    Alt: 34000.0 ft
+Tag 14 Earth Reference data: 5CA0E4400C
+    True track: 260.5078125 deg
+    Ground speed: 456.5 kt
+    Vertical speed: 48.0 ft/min
+Tag 16 Meteorological data: 4AB93E68
+    Wind speed: 74.5 kt
+    True wind direction: 321.328125 deg
+    Temperature: -51.0 C
+CRC: 6A4F
+
+Registration: A7-BEG    ICAO ID: 06a1bd    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.A7-BEG142AA9FFAA9A884D07CE1D0D2AAAAF8E39084D043E29F4A75555484D00F331
+Tag 20 Waypoint Change Event: 2AA9FFAA9A884D07CE1D
+    Latitude: 59.99616622924805
+    Longitude: -15.011100769042969
+    Altitude: 34000.0 ft
+    Timestamp: 2023-07-07 15:08:19.500
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 2AAAAF8E39084D043E29F4A75555484D00
+  Next waypoint:
+    Lat: 59.999942779541016
+    Lon: -19.999923706054688
+    Alt: 34000.0 ft
+    ETA: 2023-07-07 15:26:25.500
+  Next+1 waypoint:
+    Lat: 59.00001525878906
+    Lon: -30.000057220458984
+    Alt: 34000.0 ft
+CRC: F331
+
+Registration: G-XWBM    ICAO ID: 407cd2    ATSU Adress: QUKAXBA - London
+Channel Frequency: 1526377000
+/QUKAXBA.ADS.G-XWBM071298A02EA3C98588101F82C2
+Tag 07 Basic report: 1298A02EA3C98588101F
+    Latitude: 26.150894165039062
+    Longitude: 8.198375701904297
+    Altitude: 39000.0 ft
+    Timestamp: 2023-07-07 15:08:36.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+CRC: 82C2
+
+Registration: 9V-SMM    ICAO ID: 76cdad    ATSU Adress: SKYSWSQ - Singapore
+Channel Frequency: 1526377000
+/SKYSWSQ.ADS.9V-SMM0719B9B92D6D4985C83C1F0E27D1170000103EB71E8CCB18
+Tag 07 Basic report: 19B9B92D6D4985C83C1F
+    Latitude: 36.17643356323242
+    Longitude: 52.985172271728516
+    Altitude: 39004.0 ft
+    Timestamp: 2023-07-07 15:08:47.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 27D1170000
+    True track: 111.97265625 deg
+    Ground speed: 558.0 kt
+    Vertical speed: 0.0 ft/min
+Tag 16 Meteorological data: 3EB71E8C
+    Wind speed: 62.5 kt
+    True wind direction: 309.375 deg
+    Temperature: -46.5 C
+CRC: CB18
+
+Registration: D-ABYR    ICAO ID: 3c4b32    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.D-ABYR14288E4F8E4C080EC8641D0D294397554F080E893727D8A71C52880E80E197
+Tag 20 Waypoint Change Event: 288E4F8E4C080EC8641D
+    Latitude: 57.03157424926758
+    Longitude: -19.98687744140625
+    Altitude: 33004.0 ft
+    Timestamp: 2023-07-07 15:08:57.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 294397554F080E893727D8A71C52880E80
+  Next waypoint:
+    Lat: 58.027381896972656
+    Lon: -30.004348754882812
+    Alt: 33000.0 ft
+    ETA: 2023-07-07 15:48:16.000
+  Next+1 waypoint:
+    Lat: 56.03370666503906
+    Lon: -40.02147674560547
+    Alt: 33000.0 ft
+CRC: E197
+
+Registration: G-YMMU    ICAO ID: 405bfe    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.G-YMMU072247E783B548CA087E1D0C0815F95818200D1F49FF555548CA0C7D1B05B71C71C947001021B73E963914
+Tag 07 Basic report: 2247E783B548CA087E1D
+    Latitude: 48.20732116699219
+    Longitude: -21.848201751708984
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:09:03.500
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 0815F9581820
+    Flight ID: BAW9VA
+Tag 13 Predicted Route: 1F49FF555548CA0C7D1B05B71C71C94700
+  Next waypoint:
+    Lat: 44.00007247924805
+    Lon: -30.000057220458984
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 16:02:20.500
+  Next+1 waypoint:
+    Lat: 37.99999237060547
+    Lon: -40.00001907348633
+    Alt: 38000.0 ft
+Tag 16 Meteorological data: 21B73E96
+    Wind speed: 33.5 kt
+    True wind direction: 310.078125 deg
+    Temperature: -45.25 C
+CRC: 3914
+
+Registration: C-GUDO    ICAO ID: c079d5    ATSU Adress: REKCAYA - Reykjavik Oceanic
+Channel Frequency: 1526377000
+/REKCAYA.ADS.C-GUDO142B52DFAED308CA08671F0D2CCD978E4148CA05822E39B7555CC9470026C8
+Tag 20 Waypoint Change Event: 2B52DFAED308CA08671F
+    Latitude: 60.923824310302734
+    Longitude: -14.269180297851562
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:08:57.750
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 2CCD978E4148CA05822E39B7555CC94700
+  Next waypoint:
+    Lat: 63.004188537597656
+    Lon: -19.994258880615234
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 15:32:27.750
+  Next+1 waypoint:
+    Lat: 65.00438690185547
+    Lon: -29.99490737915039
+    Alt: 38000.0 ft
+CRC: 26C8
+
+Registration: 9K-AOF    ICAO ID: 706059    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.9K-AOF0726073F9E7D07D008AC9D0C2C10F1C778200D2669578E43C88B82F3271F87555208CA001072203E9C868C
+Tag 07 Basic report: 26073F9E7D07D008AC9D
+    Latitude: 53.47715377807617
+    Longitude: -17.140731811523438
+    Altitude: 32000.0 ft
+    Timestamp: 2023-07-07 15:09:15.125
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 2C10F1C77820
+    Flight ID: KAC117
+Tag 13 Predicted Route: 2669578E43C88B82F3271F87555208CA00
+  Next waypoint:
+    Lat: 54.01599884033203
+    Lon: -19.992542266845703
+    Alt: 35000.0 ft
+    ETA: 2023-07-07 15:21:50.125
+  Next+1 waypoint:
+    Lat: 55.01678466796875
+    Lon: -30.002288818359375
+    Alt: 36000.0 ft
+Tag 16 Meteorological data: 72203E9C
+    Wind speed: 114.0 kt
+    True wind direction: 180.703125 deg
+    Temperature: -44.5 C
+CRC: 868C
+
+Registration: G-XLEL    ICAO ID: 406ec7    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526377000
+/YQXE2YA.ADS.G-XLEL07268D772D30090888BC1D0C0815F2C37820102F3C9E420D260E471C650908435924A21EE3800908400D6E
+Tag 07 Basic report: 268D772D30090888BC1D
+    Latitude: 54.214439392089844
+    Longitude: -37.056884765625
+    Altitude: 37000.0 ft
+    Timestamp: 2023-07-07 15:09:19.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 0815F2C37820
+    Flight ID: BAW207
+Tag 16 Meteorological data: 2F3C9E42
+    Wind speed: 47.0 kt
+    True wind direction: 340.3125 deg
+    Temperature: -55.75 C
+Tag 13 Predicted Route: 260E471C650908435924A21EE380090840
+  Next waypoint:
+    Lat: 53.515777587890625
+    Lon: -40.00877380371094
+    Alt: 36996.0 ft
+    ETA: 2023-07-07 15:23:36.000
+  Next+1 waypoint:
+    Lat: 51.51540756225586
+    Lon: -50.009765625
+    Alt: 36996.0 ft
+CRC: 0D6E
+
+Registration: A6-BLJ    ICAO ID: 89648a    ATSU Adress: MGQCAYA - Mogadishu (Somalia)
+Channel Frequency: 1526070000
+/MGQCAYA.ADS.A6-BLJ0707E9392157890809021F0E0B30E940040F0CD9A280046DD7
+Tag 07 Basic report: 07E9392157890809021F
+    Latitude: 11.124858856201172
+    Longitude: 50.860862731933594
+    Altitude: 36992.0 ft
+    Timestamp: 2023-07-07 15:09:36.500
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 0B30E94004
+    True track: 31.46484375 deg
+    Ground speed: 466.5 kt
+    Vertical speed: 16.0 ft/min
+Tag 15 Air Reference Data: 0CD9A28004
+    True heading: 36.123046875 deg
+    Mach speed: 0.837
+    Vertical speed: 16.0 ft/min
+CRC: 6DD7
+
+Registration: N27015    ICAO ID: a2a915    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526070000
+/YQXE2YA.ADS.N2701514288A9F554B488B89639D0D271F571C63C88B89E325B32EE37F088B805CE6
+Tag 20 Waypoint Change Event: 288A9F554B488B89639D
+    Latitude: 57.01131820678711
+    Longitude: -30.00692367553711
+    Altitude: 35000.0 ft
+    Timestamp: 2023-07-07 15:10:00.875
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 271F571C63C88B89E325B32EE37F088B80
+  Next waypoint:
+    Lat: 55.01575469970703
+    Lon: -40.0096321105957
+    Alt: 35000.0 ft
+    ETA: 2023-07-07 15:52:11.875
+  Next+1 waypoint:
+    Lat: 53.015384674072266
+    Lon: -50.01045227050781
+    Alt: 35000.0 ft
+CRC: 5CE6
+
+Registration: 7T-VJZ    ICAO ID: 0a48    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.7T-VJZ07273B676E35C98549FC1D0C101232DF0C20101B00BEB60D27777F555549858484260B671C71C9858007D2
+Tag 07 Basic report: 273B676E35C98549FC1D
+    Latitude: 55.16990661621094
+    Longitude: -25.627155303955078
+    Altitude: 38996.0 ft
+    Timestamp: 2023-07-07 15:10:39.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 101232DF0C20
+    Flight ID: DAH270
+Tag 16 Meteorological data: 1B00BEB6
+    Wind speed: 27.0 kt
+    True wind direction: 3.515625 deg
+    Temperature: -41.25 C
+Tag 13 Predicted Route: 27777F555549858484260B671C71C98580
+  Next waypoint:
+    Lat: 55.5000114440918
+    Lon: -30.000057220458984
+    Alt: 39000.0 ft
+    ETA: 2023-07-07 15:29:55.000
+  Next+1 waypoint:
+    Lat: 53.49998474121094
+    Lon: -40.00001907348633
+    Alt: 39000.0 ft
+CRC: 07D2
+
+Registration: ET-ANN    ICAO ID: 042f    ATSU Adress: BZVCAYA - Brazzaville (Republic of the Congo)
+Channel Frequency: 1526070000
+/BZVCAYA.ADS.ET-ANN14031558202A49470A128D0D0327C819E1494701FB0385D7EEEF044B40F195
+Tag 20 Waypoint Change Event: 031558202A49470A128D
+    Latitude: 4.335994720458984
+    Longitude: 5.654010772705078
+    Altitude: 38000.0 ft
+    Timestamp: 2023-07-07 15:10:44.625
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: not available to ADS
+Tag 13 Predicted Route: 0327C819E1494701FB0385D7EEEF044B40
+  Next waypoint:
+    Lat: 4.437274932861328
+    Lon: 4.549198150634766
+    Alt: 38000.0 ft
+    ETA: 2023-07-07 15:19:11.625
+  Next+1 waypoint:
+    Lat: 4.953804016113281
+    Lon: -2.9999542236328125
+    Alt: 17588.0 ft
+CRC: F195
+
+Registration: ET-AVE    ICAO ID: 04014e    ATSU Adress: ALGCAYA - Algiers (Algeria)
+Channel Frequency: 1526377000
+/ALGCAYA.ADS.ET-AVE030187A9
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+CRC: 87A9
+
+Registration: EC-NGT    ICAO ID: 346386    ATSU Adress: SMACAYA - Santa Maria Oceanic
+Channel Frequency: 1526377000
+/SMACAYA.ADS.EC-NGT071DE2F7A75488CA0A5C1F0F5E99A740001047295E760D1DE0E78E3548C9C64E1C74BF554D88C9C0202B
+Tag 07 Basic report: 1DE2F7A75488CA0A5C1F
+    Latitude: 42.027854919433594
+    Longitude: -15.586509704589844
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:11:03.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 15 Air Reference Data: 5E99A74000
+    True heading: 266.044921875 deg
+    Mach speed: 0.8465
+    Vertical speed: 0.0 ft/min
+Tag 16 Meteorological data: 47295E76
+    Wind speed: 71.0 kt
+    True wind direction: 232.03125 deg
+    Temperature: -49.25 C
+Tag 13 Predicted Route: 1DE0E78E3548C9C64E1C74BF554D88C9C0
+  Next waypoint:
+    Lat: 42.01652526855469
+    Lon: -20.002498626708984
+    Alt: 35996.0 ft
+    ETA: 2023-07-07 15:37:57.000
+  Next+1 waypoint:
+    Lat: 40.01615524291992
+    Lon: -30.00537872314453
+    Alt: 35996.0 ft
+CRC: 202B
+
+Registration: F-HHAV    ICAO ID: 399c15    ATSU Adress: SMACAYA - Santa Maria Oceanic
+Channel Frequency: 1526377000
+/SMACAYA.ADS.F-HHAV141FFFAFB60808C9CAD41F0D1C71C78E3908C9CE5619999F71C74946C0B0F6
+Tag 20 Waypoint Change Event: 1FFFAFB60808C9CAD41F
+    Latitude: 44.998111724853516
+    Longitude: -13.0023193359375
+    Altitude: 35996.0 ft
+    Timestamp: 2023-07-07 15:11:33.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 1C71C78E3908C9CE5619999F71C74946C0
+  Next waypoint:
+    Lat: 39.999847412109375
+    Lon: -19.999923706054688
+    Alt: 35996.0 ft
+    ETA: 2023-07-07 16:12:43.000
+  Next+1 waypoint:
+    Lat: 35.99996566772461
+    Lon: -24.99990463256836
+    Alt: 37996.0 ft
+CRC: B0F6
+
+Registration: D-AIXJ    ICAO ID: 3c670a    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.D-AIXJ14282DAF8E3108CA0AFC1F0D28E38F555588C9C9462777771C720946C0436D
+Tag 20 Waypoint Change Event: 282DAF8E3108CA0AFC1F
+    Latitude: 56.500797271728516
+    Longitude: -20.005416870117188
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:11:43.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 28E38F555588C9C9462777771C720946C0
+  Next waypoint:
+    Lat: 57.4998664855957
+    Lon: -29.99988555908203
+    Alt: 35996.0 ft
+    ETA: 2023-07-07 15:51:17.000
+  Next+1 waypoint:
+    Lat: 55.499839782714844
+    Lon: -39.999847412109375
+    Alt: 37996.0 ft
+CRC: 436D
+
+Registration: D-AIKK    ICAO ID: 3c656b    ATSU Adress: ALGCAYA - Algiers (Algeria)
+Channel Frequency: 1526070000
+/ALGCAYA.ADS.D-AIKK1310E8C01E0D49B80B201DA3DC
+Tag 19 Altitude Range Event: 10E8C01E0D49B80B201D
+    Latitude: 23.778533935546875
+    Longitude: 5.282535552978516
+    Altitude: 39808.0 ft
+    Timestamp: 2023-07-07 15:11:52.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+CRC: A3DC
+
+Registration: A7-ANH    ICAO ID: 06a124    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.A7-ANH072707AFB11C0946CB4C1F0C4544B93A0820102CA0FE7E0D271C77AAAAC946C12327D8578E50C946C0FB10
+Tag 07 Basic report: 2707AFB11C0946CB4C1F
+    Latitude: 54.885807037353516
+    Longitude: -13.86749267578125
+    Altitude: 37996.0 ft
+    Timestamp: 2023-07-07 15:12:03.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 4544B93A0820
+    Flight ID: QTR9N 
+Tag 16 Meteorological data: 2CA0FE7E
+    Wind speed: 44.5 kt
+    True wind direction: 184.921875 deg
+    Temperature: -48.25 C
+Tag 13 Predicted Route: 271C77AAAAC946C12327D8578E50C946C0
+  Next waypoint:
+    Lat: 54.999961853027344
+    Lon: -14.999942779541016
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:16:54.000
+  Next+1 waypoint:
+    Lat: 56.03199005126953
+    Lon: -19.98361587524414
+    Alt: 37996.0 ft
+CRC: FB10
+
+Registration: A7-ANQ    ICAO ID: 06a12d    ATSU Adress: BDOCAYA - Bodo Oceanic
+Channel Frequency: 1526377000
+/BDOCAYA.ADS.A7-ANQ07386578B5DA08C98B681F0D38E388AAAA88C9C1613A4FA071C708C9C056FD
+Tag 07 Basic report: 386578B5DA08C98B681F
+    Latitude: 79.3073844909668
+    Longitude: 31.966094970703125
+    Altitude: 35992.0 ft
+    Timestamp: 2023-07-07 15:12:10.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 38E388AAAA88C9C1613A4FA071C708C9C0
+  Next waypoint:
+    Lat: 79.9998664855957
+    Lon: 29.99988555908203
+    Alt: 35996.0 ft
+    ETA: 2023-07-07 15:18:03.000
+  Next+1 waypoint:
+    Lat: 81.99989318847656
+    Lon: 19.999923706054688
+    Alt: 35996.0 ft
+CRC: 56FD
+
+Registration: G-XWBL    ICAO ID: 407cd1    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.G-XWBL1427D427AA9709464B741F0D288E5F8E51C946C4E92944BF554DC946C01295
+Tag 20 Waypoint Change Event: 27D427AA9709464B741F
+    Latitude: 56.00898742675781
+    Longitude: -15.013504028320312
+    Altitude: 37988.0 ft
+    Timestamp: 2023-07-07 15:12:13.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 288E5F8E51C946C4E92944BF554DC946C0
+  Next waypoint:
+    Lat: 57.031917572021484
+    Lon: -19.982929229736328
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:33:10.000
+  Next+1 waypoint:
+    Lat: 58.03373336791992
+    Lon: -30.005207061767578
+    Alt: 37996.0 ft
+CRC: 1295
+
+Registration: ET-ARI    ICAO ID: 048b    ATSU Adress: MGQCAYA - Mogadishu (Somalia)
+Channel Frequency: 1526070000
+/MGQCAYA.ADS.ET-ARI07068A610C06C88B8B571D0E2228E1C0000F22099D8000DBE1
+Tag 07 Basic report: 068A610C06C88B8B571D
+    Latitude: 9.197616577148438
+    Longitude: 47.114009857177734
+    Altitude: 35000.0 ft
+    Timestamp: 2023-07-07 15:12:05.750
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 2228E1C000
+    True track: 96.064453125 deg
+    Ground speed: 451.5 kt
+    Vertical speed: 0.0 ft/min
+Tag 15 Air Reference Data: 22099D8000
+    True heading: 95.712890625 deg
+    Mach speed: 0.827
+    Vertical speed: 0.0 ft/min
+CRC: DBE1
+
+Registration: N226UA    ICAO ID: a1f90e    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.N226UA1427392FA6A2088BCB999D0D27D56F8E44C88B8485288B9F5551C88B807561
+Tag 20 Waypoint Change Event: 27392FA6A2088BCB999D
+    Latitude: 55.157718658447266
+    Longitude: -15.709075927734375
+    Altitude: 35004.0 ft
+    Timestamp: 2023-07-07 15:12:22.375
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 27D56F8E44C88B8485288B9F5551C88B80
+  Next waypoint:
+    Lat: 56.01602554321289
+    Lon: -19.99185562133789
+    Alt: 35000.0 ft
+    ETA: 2023-07-07 15:31:39.375
+  Next+1 waypoint:
+    Lat: 57.01681137084961
+    Lon: -30.002460479736328
+    Alt: 35000.0 ft
+CRC: 7561
+
+Registration: A7-BEG    ICAO ID: 06a1bd    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.A7-BEG072AADB7A42F084D4B9E1D0C4544B7D168200D2AAAAF8E39084D034029F4A75555484D00101E1CFECCA055
+Tag 07 Basic report: 2AADB7A42F084D4B9E1D
+    Latitude: 60.01659393310547
+    Longitude: -16.139602661132812
+    Altitude: 34004.0 ft
+    Timestamp: 2023-07-07 15:12:23.500
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 4544B7D16820
+    Flight ID: QTR74V
+Tag 13 Predicted Route: 2AAAAF8E39084D034029F4A75555484D00
+  Next waypoint:
+    Lat: 59.999942779541016
+    Lon: -19.999923706054688
+    Alt: 34000.0 ft
+    ETA: 2023-07-07 15:26:15.500
+  Next+1 waypoint:
+    Lat: 59.00001525878906
+    Lon: -30.000057220458984
+    Alt: 34000.0 ft
+Tag 16 Meteorological data: 1E1CFECC
+    Wind speed: 30.0 kt
+    True wind direction: 162.421875 deg
+    Temperature: -38.5 C
+CRC: A055
+
+Registration: N835AN    ICAO ID: ab6afa    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.N835AN072354776DAFC8C9CBA21F0C041333DE08200D238E3F555548CA050622D82F1C71C8CA00102B3A5E84F535
+Tag 07 Basic report: 2354776DAFC8C9CBA21F
+    Latitude: 49.682579040527344
+    Longitude: -25.719165802001953
+    Altitude: 35996.0 ft
+    Timestamp: 2023-07-07 15:12:24.500
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041333DE0820
+    Flight ID: AAL37 
+Tag 13 Predicted Route: 238E3F555548CA050622D82F1C71C8CA00
+  Next waypoint:
+    Lat: 49.99998092651367
+    Lon: -30.000057220458984
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 15:33:50.500
+  Next+1 waypoint:
+    Lat: 48.999881744384766
+    Lon: -40.00001907348633
+    Alt: 36000.0 ft
+Tag 16 Meteorological data: 2B3A5E84
+    Wind speed: 43.0 kt
+    True wind direction: 327.65625 deg
+    Temperature: -47.5 C
+CRC: F535
+
+Registration: A7-BHJ    ICAO ID: 06a2ed    ATSU Adress: ALGCAYA - Algiers (Algeria)
+Channel Frequency: 1526070000
+/ALGCAYA.ADS.A7-BHJ070F5238221849470BA51F0D1038001EFC09470246127D2823B00947000E7838F9C0003B0A
+Tag 07 Basic report: 0F5238221849470BA51F
+    Latitude: 21.545391082763672
+    Longitude: 5.993213653564453
+    Altitude: 38000.0 ft
+    Timestamp: 2023-07-07 15:12:25.250
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 1038001EFC09470246127D2823B0094700
+  Next waypoint:
+    Lat: 22.8076171875
+    Lon: 5.44647216796875
+    Alt: 38000.0 ft
+    ETA: 2023-07-07 15:22:07.250
+  Next+1 waypoint:
+    Lat: 26.000003814697266
+    Lon: 6.273193359375
+    Alt: 38000.0 ft
+Tag 14 Earth Reference data: 7838F9C000
+    True track: 338.115234375 deg
+    Ground speed: 499.5 kt
+    Vertical speed: 0.0 ft/min
+CRC: 3B0A
+
+Registration: D-AIXJ    ICAO ID: 3c670a    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.D-AIXJ072832978D1B88C9CBB41F0C10C235CB082010089A5EC00D28E38F555588C9C91D2777771C720946C06667
+Tag 07 Basic report: 2832978D1B88C9CBB41F
+    Latitude: 56.527748107910156
+    Longitude: -20.195960998535156
+    Altitude: 35996.0 ft
+    Timestamp: 2023-07-07 15:12:29.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 10C235CB0820
+    Flight ID: DLH520
+Tag 16 Meteorological data: 089A5EC0
+    Wind speed: 8.5 kt
+    True wind direction: 147.65625 deg
+    Temperature: -40.0 C
+Tag 13 Predicted Route: 28E38F555588C9C91D2777771C720946C0
+  Next waypoint:
+    Lat: 57.4998664855957
+    Lon: -29.99988555908203
+    Alt: 35996.0 ft
+    ETA: 2023-07-07 15:51:22.000
+  Next+1 waypoint:
+    Lat: 55.499839782714844
+    Lon: -39.999847412109375
+    Alt: 37996.0 ft
+CRC: 6667
+
+Registration: N870AX    ICAO ID: abf66c    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.N870AX0726C0379E6DC9858BCE9F0C041337C758200D2721B78E4D498582E727D807554F09C4001011391EB0BC4F
+Tag 07 Basic report: 26C0379E6DC9858BCE9F
+    Latitude: 54.49321746826172
+    Longitude: -17.151203155517578
+    Altitude: 39000.0 ft
+    Timestamp: 2023-07-07 15:12:35.625
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041337C75820
+    Flight ID: AAL715
+Tag 13 Predicted Route: 2721B78E4D498582E727D807554F09C400
+  Next waypoint:
+    Lat: 55.02880096435547
+    Lon: -19.986019134521484
+    Alt: 39000.0 ft
+    ETA: 2023-07-07 15:24:58.625
+  Next+1 waypoint:
+    Lat: 56.0302734375
+    Lon: -30.004348754882812
+    Alt: 40000.0 ft
+Tag 16 Meteorological data: 11391EB0
+    Wind speed: 17.0 kt
+    True wind direction: 320.625 deg
+    Temperature: -42.0 C
+CRC: BC4F
+
+Registration: 9V-SMG    ICAO ID: 76cda7    ATSU Adress: SKYSWSQ - Singapore
+Channel Frequency: 1526377000
+/SKYSWSQ.ADS.9V-SMG0716E3094027C9470C0C1F0E6BC0E5C000102AB7DEA666C3
+Tag 07 Basic report: 16E3094027C9470C0C1F
+    Latitude: 32.18461990356445
+    Longitude: 56.27729415893555
+    Altitude: 38000.0 ft
+    Timestamp: 2023-07-07 15:12:51.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 6BC0E5C000
+    True track: 303.046875 deg
+    Ground speed: 459.5 kt
+    Vertical speed: 0.0 ft/min
+Tag 16 Meteorological data: 2AB7DEA6
+    Wind speed: 42.5 kt
+    True wind direction: 313.59375 deg
+    Temperature: -43.25 C
+CRC: 66C3
+
+Registration: 9V-SMK    ICAO ID: 76cdab    ATSU Adress: TNRCAYA - Antananarivo (Madagascar)
+Channel Frequency: 1526377000
+/TNRCAYA.ADS.9V-SMK030338D3
+Tag 03 Acknowledgement: 03
+    Contract Number: 3
+CRC: 38D3
+
+Registration: N226UA    ICAO ID: a1f90e    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.N226UA0304F155
+Tag 03 Acknowledgement: 04
+    Contract Number: 4
+CRC: F155
+
+Registration: N76021    ICAO ID: aa4440    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526070000
+/YQXE2YA.ADS.N7602114293D77554949088C468D0D27D2871C71C90889A826666EE38E4908804897
+Tag 20 Waypoint Change Event: 293D77554949088C468D
+    Latitude: 57.993736267089844
+    Longitude: -30.008296966552734
+    Altitude: 37000.0 ft
+    Timestamp: 2023-07-07 15:13:05.625
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: not available to ADS
+Tag 13 Predicted Route: 27D2871C71C90889A826666EE38E490880
+  Next waypoint:
+    Lat: 56.00006103515625
+    Lon: -40.00001907348633
+    Alt: 37000.0 ft
+    ETA: 2023-07-07 15:54:17.625
+  Next+1 waypoint:
+    Lat: 54.00003433227539
+    Lon: -49.99998092651367
+    Alt: 37000.0 ft
+CRC: 4897
+
+Registration: PH-BKC    ICAO ID: 485b43    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.PH-BKC1423EF8FAC57884D0C889F0D23E93FAAAAC84D00592391278E2EC84D000E08
+Tag 20 Waypoint Change Event: 23EF8FAC57884D0C889F
+    Latitude: 50.5345344543457
+    Longitude: -14.705543518066406
+    Altitude: 34000.0 ft
+    Timestamp: 2023-07-07 15:13:22.125
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 23E93FAAAAC84D00592391278E2EC84D00
+  Next waypoint:
+    Lat: 50.49985885620117
+    Lon: -14.999942779541016
+    Alt: 34000.0 ft
+    ETA: 2023-07-07 15:14:51.125
+  Next+1 waypoint:
+    Lat: 50.01594543457031
+    Lon: -20.006961822509766
+    Alt: 34000.0 ft
+CRC: 0E08
+
+Registration: PH-BKC    ICAO ID: 485b43    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.PH-BKC1423EEA7AC19484D4CBC9F0D23EC3FAAA4C84D004B2391278E2EC84D00F671
+Tag 20 Waypoint Change Event: 23EEA7AC19484D4CBC9F
+    Latitude: 50.52955627441406
+    Longitude: -14.748287200927734
+    Altitude: 34004.0 ft
+    Timestamp: 2023-07-07 15:13:35.125
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 23EC3FAAA4C84D004B2391278E2EC84D00
+  Next waypoint:
+    Lat: 50.51633834838867
+    Lon: -15.00406265258789
+    Alt: 34000.0 ft
+    ETA: 2023-07-07 15:14:50.125
+  Next+1 waypoint:
+    Lat: 50.01594543457031
+    Lon: -20.006961822509766
+    Alt: 34000.0 ft
+CRC: F671
+
+Registration: N876AL    ICAO ID: ac0cab    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.N876AL07282D4777B688CA0CA69F0C041337C608200D28888F555548CA0581271C771C71C8CA00101402BEC6860F
+Tag 07 Basic report: 282D4777B688CA0CA69F
+    Latitude: 56.498565673828125
+    Longitude: -23.95671844482422
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:13:29.625
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041337C60820
+    Flight ID: AAL71 
+Tag 13 Predicted Route: 28888F555548CA0581271C771C71C8CA00
+  Next waypoint:
+    Lat: 56.9999885559082
+    Lon: -30.000057220458984
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 15:36:58.625
+  Next+1 waypoint:
+    Lat: 54.999961853027344
+    Lon: -40.00001907348633
+    Alt: 36000.0 ft
+Tag 16 Meteorological data: 1402BEC6
+    Wind speed: 20.0 kt
+    True wind direction: 14.765625 deg
+    Temperature: -39.25 C
+CRC: 860F
+
+Registration: HB-JHN    ICAO ID: 4b1887    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526377000
+/YQXE2YA.ADS.HB-JHN030107261BE772E4C946CCD41D0C4D74B2CA0820101C3DBEAA0D26666F5555494705A824FA571C71C9C400BE19
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+Tag 07 Basic report: 261BE772E4C946CCD41D
+    Latitude: 53.59062194824219
+    Longitude: -24.80386734008789
+    Altitude: 37996.0 ft
+    Timestamp: 2023-07-07 15:13:41.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 4D74B2CA0820
+    Flight ID: SWR22 
+Tag 16 Meteorological data: 1C3DBEAA
+    Wind speed: 28.0 kt
+    True wind direction: 346.640625 deg
+    Temperature: -42.75 C
+Tag 13 Predicted Route: 26666F5555494705A824FA571C71C9C400
+  Next waypoint:
+    Lat: 54.00003433227539
+    Lon: -30.000057220458984
+    Alt: 38000.0 ft
+    ETA: 2023-07-07 15:37:49.000
+  Next+1 waypoint:
+    Lat: 52.00000762939453
+    Lon: -40.00001907348633
+    Alt: 40000.0 ft
+CRC: BE19
+
+Registration: ET-AVE    ICAO ID: 04014e    ATSU Adress: ALGCAYA - Algiers (Algeria)
+Channel Frequency: 1526070000
+/ALGCAYA.ADS.ET-AVE1410C34FD8A74A040D3C1F0D1132A7DCFD0A02419811D847E38CCA0240B113
+Tag 20 Waypoint Change Event: 10C34FD8A74A040D3C1F
+    Latitude: 23.572711944580078
+    Longitude: -6.916408538818359
+    Altitude: 41024.0 ft
+    Timestamp: 2023-07-07 15:14:07.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 1132A7DCFD0A02419811D847E38CCA0240
+  Next waypoint:
+    Lat: 24.184341430664062
+    Lon: -6.1544036865234375
+    Alt: 40996.0 ft
+    ETA: 2023-07-07 15:20:55.000
+  Next+1 waypoint:
+    Lat: 25.094146728515625
+    Lon: -5.001010894775391
+    Alt: 40996.0 ft
+CRC: B113
+
+Registration: N876AL    ICAO ID: ac0cab    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526070000
+/YQXE2YA.ADS.N876AL0301072831C7766808C9CD7E9F0C041337C608200D28888F555548CA0548271C771C71C8CA001014829EC4B722
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+Tag 07 Basic report: 2831C7766808C9CD7E9F
+    Latitude: 56.523284912109375
+    Longitude: -24.1864013671875
+    Altitude: 35996.0 ft
+    Timestamp: 2023-07-07 15:14:23.625
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041337C60820
+    Flight ID: AAL71 
+Tag 13 Predicted Route: 28888F555548CA0548271C771C71C8CA00
+  Next waypoint:
+    Lat: 56.9999885559082
+    Lon: -30.000057220458984
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 15:36:55.625
+  Next+1 waypoint:
+    Lat: 54.999961853027344
+    Lon: -40.00001907348633
+    Alt: 36000.0 ft
+Tag 16 Meteorological data: 14829EC4
+    Wind speed: 20.5 kt
+    True wind direction: 14.0625 deg
+    Temperature: -39.5 C
+CRC: B722
+
+Registration: EI-IFA    ICAO ID: 4cad44    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.EI-IFA07271D1F56A089858DA81F0C254676C38820103ABEDE9A0D271F8755520985403C25B33F1C65498540046D
+Tag 07 Basic report: 271D1F56A089858DA81F
+    Latitude: 55.00356674194336
+    Longitude: -29.772605895996094
+    Altitude: 39000.0 ft
+    Timestamp: 2023-07-07 15:14:34.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 254676C38820
+    Flight ID: ITY608
+Tag 16 Meteorological data: 3ABEDE9A
+    Wind speed: 58.5 kt
+    True wind direction: 352.96875 deg
+    Temperature: -44.75 C
+Tag 13 Predicted Route: 271F8755520985403C25B33F1C65498540
+  Next waypoint:
+    Lat: 55.01678466796875
+    Lon: -30.002288818359375
+    Alt: 38996.0 ft
+    ETA: 2023-07-07 15:15:34.000
+  Next+1 waypoint:
+    Lat: 53.01572799682617
+    Lon: -40.008602142333984
+    Alt: 38996.0 ft
+CRC: 046D
+
+Registration: PH-BKC    ICAO ID: 485b43    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.PH-BKC1423EC37AA97C84D4DF49F0D2391278E2EC84D05C1216EBF5543C8CA00ED66
+Tag 20 Waypoint Change Event: 23EC37AA97C84D4DF49F
+    Latitude: 50.51616668701172
+    Longitude: -15.012989044189453
+    Altitude: 34004.0 ft
+    Timestamp: 2023-07-07 15:14:53.125
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 2391278E2EC84D05C1216EBF5543C8CA00
+  Next waypoint:
+    Lat: 50.01594543457031
+    Lon: -20.006961822509766
+    Alt: 34000.0 ft
+    ETA: 2023-07-07 15:39:26.125
+  Next+1 waypoint:
+    Lat: 47.01444625854492
+    Lon: -30.012073516845703
+    Alt: 36000.0 ft
+CRC: ED66
+
+Registration: G-TUIA    ICAO ID: 4067f5    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526070000
+/YQXE2YA.ADS.G-TUIA132652D7180609730E0B1FE1D9
+Tag 19 Altitude Range Event: 2652D7180609730E0B1F
+    Latitude: 53.89240264892578
+    Longitude: -40.777130126953125
+    Altitude: 38704.0 ft
+    Timestamp: 2023-07-07 15:14:58.750
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+CRC: E1D9
+
+Registration: D2-TEJ    ICAO ID: 09f0    ATSU Adress: NIMCAYA - Niamey (Niger)
+Channel Frequency: 1526070000
+/NIMCAYA.ADS.D2-TEJ030007088828309689858E7B9D0E3D88EB80001016145E6857C2
+Tag 03 Acknowledgement: 00
+    Contract Number: 0
+Tag 07 Basic report: 088828309689858E7B9D
+    Latitude: 11.997928619384766
+    Longitude: 8.540840148925781
+    Altitude: 39000.0 ft
+    Timestamp: 2023-07-07 15:15:26.875
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 3D88EB8000
+    True track: 173.056640625 deg
+    Ground speed: 471.0 kt
+    Vertical speed: 0.0 ft/min
+Tag 16 Meteorological data: 16145E68
+    Wind speed: 22.0 kt
+    True wind direction: 113.90625 deg
+    Temperature: -51.0 C
+CRC: 57C2
+
+Registration: EI-IFA    ICAO ID: 4cad44    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526377000
+/YQXE2YA.ADS.EI-IFA14271D6F5544C985CE9C1F0D25B33F1C6549854A90244716E38089854069DB
+Tag 20 Waypoint Change Event: 271D6F5544C985CE9C1F
+    Latitude: 55.00528335571289
+    Longitude: -30.01138687133789
+    Altitude: 39004.0 ft
+    Timestamp: 2023-07-07 15:15:35.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 25B33F1C6549854A90244716E380898540
+  Next waypoint:
+    Lat: 53.01572799682617
+    Lon: -40.008602142333984
+    Alt: 38996.0 ft
+    ETA: 2023-07-07 16:00:39.000
+  Next+1 waypoint:
+    Lat: 51.015357971191406
+    Lon: -50.009422302246094
+    Alt: 38996.0 ft
+CRC: 69DB
+
+Registration: A7-ANH    ICAO ID: 06a124    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.A7-ANH03064F8E
+Tag 03 Acknowledgement: 06
+    Contract Number: 6
+CRC: 4F8E
+
+Registration: A7-ANH    ICAO ID: 06a124    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.A7-ANH030707271857AC0349474EE41F0C4544B93A08201029A27E8E0D271C77AAAAC946C03D27D8578E50C946C0EE15
+Tag 03 Acknowledgement: 07
+    Contract Number: 7
+Tag 07 Basic report: 271857AC0349474EE41F
+    Latitude: 54.97730255126953
+    Longitude: -14.76339340209961
+    Altitude: 38004.0 ft
+    Timestamp: 2023-07-07 15:15:53.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 4544B93A0820
+    Flight ID: QTR9N 
+Tag 16 Meteorological data: 29A27E8E
+    Wind speed: 41.5 kt
+    True wind direction: 193.359375 deg
+    Temperature: -46.25 C
+Tag 13 Predicted Route: 271C77AAAAC946C03D27D8578E50C946C0
+  Next waypoint:
+    Lat: 54.999961853027344
+    Lon: -14.999942779541016
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:16:54.000
+  Next+1 waypoint:
+    Lat: 56.03199005126953
+    Lon: -19.98361587524414
+    Alt: 37996.0 ft
+CRC: EE15
+
+Registration: F-HTYQ    ICAO ID: 39cf10    ATSU Adress: SMACAYA - Santa Maria Oceanic
+Channel Frequency: 1526070000
+/SMACAYA.ADS.F-HTYQ142000778E3F0A028EFC1F0D216C17AAAACA02466722A6C7C4488A02401966
+Tag 20 Waypoint Change Event: 2000778E3F0A028EFC1F
+    Latitude: 45.002403259277344
+    Longitude: -19.995803833007812
+    Altitude: 41000.0 ft
+    Timestamp: 2023-07-07 15:15:59.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 216C17AAAACA02466722A6C7C4488A0240
+  Next waypoint:
+    Lat: 46.999855041503906
+    Lon: -14.999942779541016
+    Alt: 40996.0 ft
+    ETA: 2023-07-07 15:43:18.000
+  Next+1 waypoint:
+    Lat: 48.728485107421875
+    Lon: -10.497093200683594
+    Alt: 40996.0 ft
+CRC: 1966
+
+Registration: D2-TEJ    ICAO ID: 09f0    ATSU Adress: NIMCAYA - Niamey (Niger)
+Channel Frequency: 1526070000
+/NIMCAYA.ADS.D2-TEJ03026961
+Tag 03 Acknowledgement: 02
+    Contract Number: 2
+CRC: 6961
+
+Registration: F-HTYQ    ICAO ID: 39cf10    ATSU Adress: SMACAYA - Santa Maria Oceanic
+Channel Frequency: 1526377000
+/SMACAYA.ADS.F-HTYQ072006078EA84A020F601F0F1391AB40041019B53E920D216C17AAAACA02467022A6C7C4488A0240655B
+Tag 07 Basic report: 2006078EA84A020F601F
+    Latitude: 45.032958984375
+    Longitude: -19.923534393310547
+    Altitude: 40992.0 ft
+    Timestamp: 2023-07-07 15:16:24.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 15 Air Reference Data: 1391AB4004
+    True heading: 55.01953125 deg
+    Mach speed: 0.8545
+    Vertical speed: 16.0 ft/min
+Tag 16 Meteorological data: 19B53E92
+    Wind speed: 25.5 kt
+    True wind direction: 298.828125 deg
+    Temperature: -45.75 C
+Tag 13 Predicted Route: 216C17AAAACA02467022A6C7C4488A0240
+  Next waypoint:
+    Lat: 46.999855041503906
+    Lon: -14.999942779541016
+    Alt: 40996.0 ft
+    ETA: 2023-07-07 15:43:52.000
+  Next+1 waypoint:
+    Lat: 48.728485107421875
+    Lon: -10.497093200683594
+    Alt: 40996.0 ft
+CRC: 655B
+
+Registration: F-HSKA    ICAO ID: 39c940    ATSU Adress: ORYCASS - Paris
+Channel Frequency: 1526070000
+/ORYCASS.ADS.F-HSKA072120579D4048CA0F901D0E5A10E67FF80D20B60F8E3908CA03891C71CF555548CA003510
+Tag 07 Basic report: 2120579D4048CA0F901D
+    Latitude: 46.58374786376953
+    Longitude: -17.358226776123047
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:16:36.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 5A10E67FF8
+    True track: 253.30078125 deg
+    Ground speed: 460.5 kt
+    Vertical speed: -32.0 ft/min
+Tag 13 Predicted Route: 20B60F8E3908CA03891C71CF555548CA00
+  Next waypoint:
+    Lat: 45.99992752075195
+    Lon: -19.999923706054688
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 15:31:41.000
+  Next+1 waypoint:
+    Lat: 40.00001907348633
+    Lon: -30.000057220458984
+    Alt: 36000.0 ft
+CRC: 3510
+
+Registration: A7-ANH    ICAO ID: 06a124    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.A7-ANH14271F2FAAA4C9478FE01F0D27D8578E50C946C515288EAF554E0946C04C43
+Tag 20 Waypoint Change Event: 271F2FAAA4C9478FE01F
+    Latitude: 55.014896392822266
+    Longitude: -15.00406265258789
+    Altitude: 38008.0 ft
+    Timestamp: 2023-07-07 15:16:56.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 27D8578E50C946C515288EAF554E0946C0
+  Next waypoint:
+    Lat: 56.03199005126953
+    Lon: -19.98361587524414
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:38:37.000
+  Next+1 waypoint:
+    Lat: 57.033634185791016
+    Lon: -30.005035400390625
+    Alt: 37996.0 ft
+CRC: 4C43
+
+Registration: F-HSIS    ICAO ID: 39c912    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.F-HSIS0720D7D7B05A89478FDC1F0C197271C018201040A27E600D20B60FAAAAC946C15D1FFFFF8E390946C0F059
+Tag 07 Basic report: 20D7D7B05A89478FDC1F
+    Latitude: 46.18549346923828
+    Longitude: -14.000358581542969
+    Altitude: 38008.0 ft
+    Timestamp: 2023-07-07 15:16:55.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 197271C01820
+    Flight ID: FWI10A
+Tag 16 Meteorological data: 40A27E60
+    Wind speed: 64.5 kt
+    True wind direction: 193.359375 deg
+    Temperature: -52.0 C
+Tag 13 Predicted Route: 20B60FAAAAC946C15D1FFFFF8E390946C0
+  Next waypoint:
+    Lat: 45.99992752075195
+    Lon: -14.999942779541016
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:22:44.000
+  Next+1 waypoint:
+    Lat: 44.99982833862305
+    Lon: -19.999923706054688
+    Alt: 37996.0 ft
+CRC: F059
+
+Registration: D-ABYQ    ICAO ID: 3c4b31    ATSU Adress: REKCAYA - Reykjavik Oceanic
+Channel Frequency: 1526070000
+/REKCAYA.ADS.D-ABYQ143555671C6B08C9D0181D0D360B66AAAAC8CA093335EBEE52C148CA001D67
+Tag 20 Waypoint Change Event: 3555671C6B08C9D0181D
+    Latitude: 75.00022888183594
+    Longitude: -40.00465393066406
+    Altitude: 35996.0 ft
+    Timestamp: 2023-07-07 15:17:10.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 360B66AAAAC8CA093335EBEE52C148CA00
+  Next waypoint:
+    Lat: 75.99998474121094
+    Lon: -59.999942779541016
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 15:56:25.000
+  Next+1 waypoint:
+    Lat: 75.82712173461914
+    Lon: -75.45324325561523
+    Alt: 36000.0 ft
+CRC: 1D67
+
+Registration: N76021    ICAO ID: aa4440    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526070000
+/YQXE2YA.ADS.N76021072920274F3CC90890269D0C541331E208200D27D2871C71C90888C626666EE38E49088010463F7E8EC1FD
+Tag 07 Basic report: 2920274F3CC90890269D
+    Latitude: 57.83271789550781
+    Longitude: -31.07156753540039
+    Altitude: 37000.0 ft
+    Timestamp: 2023-07-07 15:17:13.625
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 541331E20820
+    Flight ID: UAL18 
+Tag 13 Predicted Route: 27D2871C71C90888C626666EE38E490880
+  Next waypoint:
+    Lat: 56.00006103515625
+    Lon: -40.00001907348633
+    Alt: 37000.0 ft
+    ETA: 2023-07-07 15:54:39.625
+  Next+1 waypoint:
+    Lat: 54.00003433227539
+    Lon: -49.99998092651367
+    Alt: 37000.0 ft
+Tag 16 Meteorological data: 463F7E8E
+    Wind speed: 70.0 kt
+    True wind direction: 356.484375 deg
+    Temperature: -46.25 C
+CRC: C1FD
+
+Registration: A6-BLJ    ICAO ID: 89648a    ATSU Adress: MGQCAYA - Mogadishu (Somalia)
+Channel Frequency: 1526070000
+/MGQCAYA.ADS.A6-BLJ07088A492473090890821F0E07F8EBBFFC0F09F9A27FFC455C
+Tag 07 Basic report: 088A492473090890821F
+    Latitude: 12.009601593017578
+    Longitude: 51.40708923339844
+    Altitude: 37000.0 ft
+    Timestamp: 2023-07-07 15:17:36.500
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 07F8EBBFFC
+    True track: 22.412109375 deg
+    Ground speed: 471.0 kt
+    Vertical speed: -16.0 ft/min
+Tag 15 Air Reference Data: 09F9A27FFC
+    True heading: 28.037109375 deg
+    Mach speed: 0.8365
+    Vertical speed: -16.0 ft/min
+CRC: 455C
+
+Registration: A7-ANQ    ICAO ID: 06a12d    ATSU Adress: BDOCAYA - Bodo Oceanic
+Channel Frequency: 1526377000
+/BDOCAYA.ADS.A7-ANQ1438E460AA90C8CA10DC1F0D3A4FA071C708C9C4633BBBB8000008C9C0EFA2
+Tag 20 Waypoint Change Event: 38E460AA90C8CA10DC1F
+    Latitude: 80.00450134277344
+    Longitude: 29.98220443725586
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:17:59.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 3A4FA071C708C9C4633BBBB8000008C9C0
+  Next waypoint:
+    Lat: 81.99989318847656
+    Lon: 19.999923706054688
+    Alt: 35996.0 ft
+    ETA: 2023-07-07 15:36:42.000
+  Next+1 waypoint:
+    Lat: 83.99991989135742
+    Lon: 0.0
+    Alt: 35996.0 ft
+CRC: EFA2
+
+Registration: PH-BKC    ICAO ID: 485b43    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.PH-BKC0304B945
+Tag 03 Acknowledgement: 04
+    Contract Number: 4
+CRC: B945
+
+Registration: N226UA    ICAO ID: a1f90e    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.N226UA07276D879F60C88B11059D0C541339C798200D27D56F8E44C88B82FD288B9F5551C88B80102EA1FEB8C54F
+Tag 07 Basic report: 276D879F60C88B11059D
+    Latitude: 55.44525146484375
+    Longitude: -16.98434829711914
+    Altitude: 34992.0 ft
+    Timestamp: 2023-07-07 15:18:09.375
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 541339C79820
+    Flight ID: UAL919
+Tag 13 Predicted Route: 27D56F8E44C88B82FD288B9F5551C88B80
+  Next waypoint:
+    Lat: 56.01602554321289
+    Lon: -19.99185562133789
+    Alt: 35000.0 ft
+    ETA: 2023-07-07 15:30:54.375
+  Next+1 waypoint:
+    Lat: 57.01681137084961
+    Lon: -30.002460479736328
+    Alt: 35000.0 ft
+Tag 16 Meteorological data: 2EA1FEB8
+    Wind speed: 46.5 kt
+    True wind direction: 190.546875 deg
+    Temperature: -41.0 C
+CRC: C54F
+
+Registration: N782AN    ICAO ID: aa9801    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.N782AN0728E42F792C07D011379D0C041334D608200D2944BF554D87D005A927D83F1C5487D0001021885EA66EFD
+Tag 07 Basic report: 28E42F792C07D011379D
+    Latitude: 57.503299713134766
+    Longitude: -23.70025634765625
+    Altitude: 32000.0 ft
+    Timestamp: 2023-07-07 15:18:21.875
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041334D60820
+    Flight ID: AAL45 
+Tag 13 Predicted Route: 2944BF554D87D005A927D83F1C5487D000
+  Next waypoint:
+    Lat: 58.03373336791992
+    Lon: -30.00537872314453
+    Alt: 32000.0 ft
+    ETA: 2023-07-07 15:42:30.875
+  Next+1 waypoint:
+    Lat: 56.03147506713867
+    Lon: -40.020103454589844
+    Alt: 32000.0 ft
+Tag 16 Meteorological data: 21885EA6
+    Wind speed: 33.5 kt
+    True wind direction: 46.40625 deg
+    Temperature: -43.25 C
+CRC: 6EFD
+
+Registration: A6-EUH    ICAO ID: 896472    ATSU Adress: REKCAYA - Reykjavik Oceanic
+Channel Frequency: 1526070000
+/REKCAYA.ADS.A6-EUH142C1D07C7108946D0AC1D0D2C1CC78E2E8946C7DF2B665F55314946C04E7F
+Tag 20 Waypoint Change Event: 2C1D07C7108946D0AC1D
+    Latitude: 62.0343017578125
+    Longitude: -10.008201599121094
+    Altitude: 37996.0 ft
+    Timestamp: 2023-07-07 15:17:47.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 2C1CC78E2E8946C7DF2B665F55314946C0
+  Next waypoint:
+    Lat: 62.032928466796875
+    Lon: -20.00713348388672
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:51:22.000
+  Next+1 waypoint:
+    Lat: 61.030941009521484
+    Lon: -30.024776458740234
+    Alt: 37996.0 ft
+CRC: 4E7F
+
+Registration: ET-AVE    ICAO ID: 04014e    ATSU Adress: DKRCAYA - Dakar (Senegal)
+Channel Frequency: 1526377000
+/DKRCAYA.ADS.ET-AVE030007110F07DB980A02D19C1F0E1160F200081010189E3A0D1132A7DCFD0A02408711D847E38CCA02409661
+Tag 03 Acknowledgement: 00
+    Contract Number: 0
+Tag 07 Basic report: 110F07DB980A02D19C1F
+    Latitude: 23.9886474609375
+    Longitude: -6.3995361328125
+    Altitude: 41004.0 ft
+    Timestamp: 2023-07-07 15:18:47.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 1160F20008
+    True track: 48.8671875 deg
+    Ground speed: 484.0 kt
+    Vertical speed: 32.0 ft/min
+Tag 16 Meteorological data: 10189E3A
+    Wind speed: 16.0 kt
+    True wind direction: 137.8125 deg
+    Temperature: -56.75 C
+Tag 13 Predicted Route: 1132A7DCFD0A02408711D847E38CCA0240
+  Next waypoint:
+    Lat: 24.184341430664062
+    Lon: -6.1544036865234375
+    Alt: 40996.0 ft
+    ETA: 2023-07-07 15:21:02.000
+  Next+1 waypoint:
+    Lat: 25.094146728515625
+    Lon: -5.001010894775391
+    Alt: 40996.0 ft
+CRC: 9661
+
+Registration: ET-AVE    ICAO ID: 04014e    ATSU Adress: DKRCAYA - Dakar (Senegal)
+Channel Frequency: 1526070000
+/DKRCAYA.ADS.ET-AVE030187A9
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+CRC: 87A9
+
+Registration: EC-NGY    ICAO ID: 346390    ATSU Adress: ALGCAYA - Algiers (Algeria)
+Channel Frequency: 1526070000
+/ALGCAYA.ADS.EC-NGY07114B2035A9C9C3D1D81F0E7500FB00000D127D202F3749C4035614017026E849C4004A21
+Tag 07 Basic report: 114B2035A9C9C3D1D81F
+    Latitude: 24.318923950195312
+    Longitude: 9.432964324951172
+    Altitude: 39996.0 ft
+    Timestamp: 2023-07-07 15:19:02.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 7500FB0000
+    True track: 329.0625 deg
+    Ground speed: 502.0 kt
+    Vertical speed: 0.0 ft/min
+Tag 13 Predicted Route: 127D202F3749C4035614017026E849C400
+  Next waypoint:
+    Lat: 25.999832153320312
+    Lon: 8.29965591430664
+    Alt: 40000.0 ft
+    ETA: 2023-07-07 15:33:16.000
+  Next+1 waypoint:
+    Lat: 28.132896423339844
+    Lon: 6.839160919189453
+    Alt: 40000.0 ft
+CRC: 4A21
+
+Registration: N761AJ    ICAO ID: aa4548    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.N761AJ0728252F9EA2C8CA11461D0C041337CF38200D28888F8E3908CA02D1293E97555548CA00102521BEB4C7A4
+Tag 07 Basic report: 28252F9EA2C8CA11461D
+    Latitude: 56.454105377197266
+    Longitude: -17.114810943603516
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:18:25.500
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041337CF3820
+    Flight ID: AAL733
+Tag 13 Predicted Route: 28888F8E3908CA02D1293E97555548CA00
+  Next waypoint:
+    Lat: 56.9999885559082
+    Lon: -19.999923706054688
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 15:30:26.500
+  Next+1 waypoint:
+    Lat: 57.999916076660156
+    Lon: -30.000057220458984
+    Alt: 36000.0 ft
+Tag 16 Meteorological data: 2521BEB4
+    Wind speed: 37.0 kt
+    True wind direction: 189.140625 deg
+    Temperature: -41.5 C
+CRC: C7A4
+
+Registration: B-322Z    ICAO ID: 781b5c    ATSU Adress: MRUCAYA - Port Louis (Mauritius)
+Channel Frequency: 1526377000
+/MRUCAYA.ADS.B-322Z07F646B9862D4908D21C1F0E1308E980000F1291A940000DF702998E38C9084322F9B0F9AAAA8908401D04
+Tag 07 Basic report: F646B9862D4908D21C1F
+    Latitude: -13.674030303955078
+    Longitude: 68.58575820922852
+    Altitude: 37004.0 ft
+    Timestamp: 2023-07-07 15:19:19.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 1308E98000
+    True track: 53.525390625 deg
+    Ground speed: 467.0 kt
+    Vertical speed: 0.0 ft/min
+Tag 15 Air Reference Data: 1291A94000
+    True heading: 52.20703125 deg
+    Mach speed: 0.8505
+    Vertical speed: 0.0 ft/min
+Tag 13 Predicted Route: F702998E38C9084322F9B0F9AAAA890840
+  Next waypoint:
+    Lat: -12.64200210571289
+    Lon: 69.99990463256836
+    Alt: 36996.0 ft
+    ETA: 2023-07-07 15:32:41.000
+  Next+1 waypoint:
+    Lat: -8.871631622314453
+    Lon: 74.99988555908203
+    Alt: 36996.0 ft
+CRC: 1D04
+
+Registration: G-XWBM    ICAO ID: 407cd2    ATSU Adress: ALGCAYA - Algiers (Algeria)
+Channel Frequency: 1526070000
+/ALGCAYA.ADS.G-XWBM0711B8D8335FC985D2201F0E34D0F07FFC0D11457035C7498541521018403BBB8985407921
+Tag 07 Basic report: 11B8D8335FC985D2201F
+    Latitude: 24.921627044677734
+    Longitude: 9.030590057373047
+    Altitude: 39004.0 ft
+    Timestamp: 2023-07-07 15:19:20.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 14 Earth Reference data: 34D0F07FFC
+    True track: 148.53515625 deg
+    Ground speed: 480.5 kt
+    Vertical speed: -16.0 ft/min
+Tag 13 Predicted Route: 11457035C7498541521018403BBB898540
+  Next waypoint:
+    Lat: 24.287681579589844
+    Lon: 9.45322036743164
+    Alt: 38996.0 ft
+    ETA: 2023-07-07 15:24:58.000
+  Next+1 waypoint:
+    Lat: 22.633209228515625
+    Lon: 10.499839782714844
+    Alt: 38996.0 ft
+CRC: 7921
+
+Registration: EC-NMZ    ICAO ID: 34659a    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.EC-NMZ07235087715949C3D2481F0C242176CB5C601029BA3EA40D23EC3F555C89C405CC24474F1C7089C400C163
+Tag 07 Basic report: 235087715949C3D2481F
+    Latitude: 49.66094970703125
+    Longitude: -25.075435638427734
+    Altitude: 39996.0 ft
+    Timestamp: 2023-07-07 15:19:30.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 242176CB5C60
+    Flight ID: IBE625
+Tag 16 Meteorological data: 29BA3EA4
+    Wind speed: 41.5 kt
+    True wind direction: 326.953125 deg
+    Temperature: -43.5 C
+Tag 13 Predicted Route: 23EC3F555C89C405CC24474F1C7089C400
+  Next waypoint:
+    Lat: 50.51633834838867
+    Lon: -29.995079040527344
+    Alt: 40000.0 ft
+    ETA: 2023-07-07 15:44:14.000
+  Next+1 waypoint:
+    Lat: 51.01655960083008
+    Lon: -40.000877380371094
+    Alt: 40000.0 ft
+CRC: C163
+
+Registration: EI-IFA    ICAO ID: 4cad44    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526377000
+/YQXE2YA.ADS.EI-IFA072705174FFB098592541F0C254676C3882010453EFE880D25B33F1C65498549B9244716E38089854095C2
+Tag 07 Basic report: 2705174FFB098592541F
+    Latitude: 54.871559143066406
+    Longitude: -30.940933227539062
+    Altitude: 39000.0 ft
+    Timestamp: 2023-07-07 15:19:33.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 254676C38820
+    Flight ID: ITY608
+Tag 16 Meteorological data: 453EFE88
+    Wind speed: 69.0 kt
+    True wind direction: 353.671875 deg
+    Temperature: -47.0 C
+Tag 13 Predicted Route: 25B33F1C65498549B9244716E380898540
+  Next waypoint:
+    Lat: 53.01572799682617
+    Lon: -40.008602142333984
+    Alt: 38996.0 ft
+    ETA: 2023-07-07 16:01:02.000
+  Next+1 waypoint:
+    Lat: 51.015357971191406
+    Lon: -50.009422302246094
+    Alt: 38996.0 ft
+CRC: 95C2
+
+Registration: 7T-VJZ    ICAO ID: 0a48    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526377000
+/YQXE2YA.ADS.7T-VJZ07275B97626C8985926C1D0C101232DF0C201028BF5EAA0D27777F55554985826B260B671C71C985801C75
+Tag 07 Basic report: 275B97626C8985926C1D
+    Latitude: 55.346717834472656
+    Longitude: -27.698936462402344
+    Altitude: 39000.0 ft
+    Timestamp: 2023-07-07 15:19:39.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 101232DF0C20
+    Flight ID: DAH270
+Tag 16 Meteorological data: 28BF5EAA
+    Wind speed: 40.5 kt
+    True wind direction: 355.78125 deg
+    Temperature: -42.75 C
+Tag 13 Predicted Route: 27777F55554985826B260B671C71C98580
+  Next waypoint:
+    Lat: 55.5000114440918
+    Lon: -30.000057220458984
+    Alt: 39000.0 ft
+    ETA: 2023-07-07 15:29:58.000
+  Next+1 waypoint:
+    Lat: 53.49998474121094
+    Lon: -40.00001907348633
+    Alt: 39000.0 ft
+CRC: 1C75
+
+Registration: N782AN    ICAO ID: aa9801    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526070000
+/YQXE2YA.ADS.N782AN03010728EB47772487D012839D0C041334D608200D2944BF554D87D0056127D83F1C5487D000101785FEACD823
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+Tag 07 Basic report: 28EB47772487D012839D
+    Latitude: 57.542266845703125
+    Longitude: -24.056968688964844
+    Altitude: 32000.0 ft
+    Timestamp: 2023-07-07 15:19:44.875
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041334D60820
+    Flight ID: AAL45 
+Tag 13 Predicted Route: 2944BF554D87D0056127D83F1C5487D000
+  Next waypoint:
+    Lat: 58.03373336791992
+    Lon: -30.00537872314453
+    Alt: 32000.0 ft
+    ETA: 2023-07-07 15:42:41.875
+  Next+1 waypoint:
+    Lat: 56.03147506713867
+    Lon: -40.020103454589844
+    Alt: 32000.0 ft
+Tag 16 Meteorological data: 1785FEAC
+    Wind speed: 23.5 kt
+    True wind direction: 33.046875 deg
+    Temperature: -42.5 C
+CRC: D823
+
+Registration: N516DN    ICAO ID: a67811    ATSU Adress: ABJCAYA - Abidjan (Ivory Coast)
+Channel Frequency: 1526377000
+/ABJCAYA.ADS.N516DN03020715
+Tag 03 Acknowledgement: 02
+    Contract Number: 2
+CRC: 0715
+
+Registration: N2748U    ICAO ID: a2b8db    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526377000
+/PIKCPYA.ADS.N2748U0727D57F8E41880ED29F1D0C541339E388200D288B9F5551C80E8982271F571C63C80E8010069FBEBA5089
+Tag 07 Basic report: 27D57F8E41880ED29F1D
+    Latitude: 56.0163688659668
+    Longitude: -19.99408721923828
+    Altitude: 33004.0 ft
+    Timestamp: 2023-07-07 15:19:51.750
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 541339E38820
+    Flight ID: UAL988
+Tag 13 Predicted Route: 288B9F5551C80E8982271F571C63C80E80
+  Next waypoint:
+    Lat: 57.01681137084961
+    Lon: -30.002460479736328
+    Alt: 33000.0 ft
+    ETA: 2023-07-07 16:00:25.750
+  Next+1 waypoint:
+    Lat: 55.01575469970703
+    Lon: -40.0096321105957
+    Alt: 33000.0 ft
+Tag 16 Meteorological data: 069FBEBA
+    Wind speed: 6.5 kt
+    True wind direction: 177.890625 deg
+    Temperature: -40.75 C
+CRC: 5089
+
+Registration: N516DN    ICAO ID: a67811    ATSU Adress: DKRCAYA - Dakar (Senegal)
+Channel Frequency: 1526070000
+/DKRCAYA.ADS.N516DN030A861D
+Tag 03 Acknowledgement: 0A
+    Contract Number: 10
+CRC: 861D
+
+Registration: EC-NSC    ICAO ID: 347206    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.EC-NSC142885A7AA6C08CA12B41F0D29999F8E3908C9C4F92AAAAF55558946C0EFD6
+Tag 20 Waypoint Change Event: 2885A7AA6C08CA12B41F
+    Latitude: 56.98402404785156
+    Longitude: -15.04302978515625
+    Altitude: 36000.0 ft
+    Timestamp: 2023-07-07 15:19:57.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 29999F8E3908C9C4F92AAAAF55558946C0
+  Next waypoint:
+    Lat: 58.49996566772461
+    Lon: -19.999923706054688
+    Alt: 35996.0 ft
+    ETA: 2023-07-07 15:41:10.000
+  Next+1 waypoint:
+    Lat: 59.999942779541016
+    Lon: -29.99988555908203
+    Alt: 37996.0 ft
+CRC: EFD6
+
+Registration: N516DN    ICAO ID: a67811    ATSU Adress: ABJCAYA - Abidjan (Ivory Coast)
+Channel Frequency: 1526070000
+/ABJCAYA.ADS.N516DN03013776
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+CRC: 3776
+
+Registration: ET-ASI    ICAO ID: 040103    ATSU Adress: ACCFAYA - Accra (Ghana)
+Channel Frequency: 1526070000
+/ACCFAYA.ADS.ET-ASI07FAD7CFE00789C3D2D59F0C154235C368200E5820EC40000F5829A50000110F
+Tag 07 Basic report: FAD7CFE00789C3D2D59F
+    Latitude: -7.252178192138672
+    Longitude: -5.619850158691406
+    Altitude: 39996.0 ft
+    Timestamp: 2023-07-07 15:20:05.375
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 154235C36820
+    Flight ID: ETH506
+Tag 14 Earth Reference data: 5820EC4000
+    True track: 247.8515625 deg
+    Ground speed: 472.5 kt
+    Vertical speed: 0.0 ft/min
+Tag 15 Air Reference Data: 5829A50000
+    True heading: 247.939453125 deg
+    Mach speed: 0.842
+    Vertical speed: 0.0 ft/min
+CRC: 110F
+
+Registration: N516DN    ICAO ID: a67811    ATSU Adress: DKRCAYA - Dakar (Senegal)
+Channel Frequency: 1526070000
+/DKRCAYA.ADS.N516DN0309B67E
+Tag 03 Acknowledgement: 09
+    Contract Number: 9
+CRC: B67E
+
+Registration: N516DN    ICAO ID: a67811    ATSU Adress: ABJCAYA - Abidjan (Ivory Coast)
+Channel Frequency: 1526070000
+/ABJCAYA.ADS.N516DN03031734
+Tag 03 Acknowledgement: 03
+    Contract Number: 3
+CRC: 1734
+
+Registration: HZ-AK38    ICAO ID: 710110    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526377000
+/YQXE2YA.ADSHZ-AK3803010728E62777BA879192FF9D0C4D6070CF58200D2941AF55518791857F27D55F1C63479180101E067E82A202
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+Tag 07 Basic report: 28E62777BA879192FF9D
+    Latitude: 57.51411437988281
+    Longitude: -23.95397186279297
+    Altitude: 31000.0 ft
+    Timestamp: 2023-07-07 15:20:15.875
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 4D6070CF5820
+    Flight ID: SVA035
+Tag 13 Predicted Route: 2941AF55518791857F27D55F1C63479180
+  Next waypoint:
+    Lat: 58.016910552978516
+    Lon: -30.00263214111328
+    Alt: 31000.0 ft
+    ETA: 2023-07-07 15:43:42.875
+  Next+1 waypoint:
+    Lat: 56.015682220458984
+    Lon: -40.00997543334961
+    Alt: 31000.0 ft
+Tag 16 Meteorological data: 1E067E82
+    Wind speed: 30.0 kt
+    True wind direction: 35.859375 deg
+    Temperature: -47.75 C
+CRC: A202
+
+Registration: N782AN    ICAO ID: aa9801    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526070000
+/YQXE2YA.ADS.N782AN03021A57
+Tag 03 Acknowledgement: 02
+    Contract Number: 2
+CRC: 1A57
+
+Registration: A7-ANH    ICAO ID: 06a124    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.A7-ANH0308AE40
+Tag 03 Acknowledgement: 08
+    Contract Number: 8
+CRC: AE40
+
+Registration: F-HSKA    ICAO ID: 39c940    ATSU Adress: SMACAYA - Santa Maria Oceanic
+Channel Frequency: 1526377000
+/SMACAYA.ADS.F-HSKA03014250
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+CRC: 4250
+
+Registration: N798UA    ICAO ID: aad780    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.N798UA14282F975548C8CA539F0D0D26C44F1C6448CA0A33255826E37F48CA00D2A8
+Tag 20 Waypoint Change Event: 282F975548C8CA539F0D
+    Latitude: 56.511268615722656
+    Longitude: -30.00864028930664
+    Altitude: 36004.0 ft
+    Timestamp: 2023-07-07 15:20:55.750
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: not available to ADS
+Tag 13 Predicted Route: 26C44F1C6448CA0A33255826E37F48CA00
+  Next waypoint:
+    Lat: 54.51570510864258
+    Lon: -40.0092887878418
+    Alt: 36000.0 ft
+    ETA: 2023-07-07 16:04:26.750
+  Next+1 waypoint:
+    Lat: 52.51533508300781
+    Lon: -50.01028060913086
+    Alt: 36000.0 ft
+CRC: D2A8
+
+Registration: N790AN    ICAO ID: aab812    ATSU Adress: YQXE2YA - Gander Oceanic
+Channel Frequency: 1526377000
+/YQXE2YA.ADS.N790AN07242A77316C094753D21D0C041331E798200D238E3F1C71C94704AC222226E38E4947001042B95E309B14
+Tag 07 Basic report: 242A77316C094753D21D
+    Latitude: 50.858116149902344
+    Longitude: -36.31256103515625
+    Altitude: 38004.0 ft
+    Timestamp: 2023-07-07 15:21:08.500
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 041331E79820
+    Flight ID: AAL199
+Tag 13 Predicted Route: 238E3F1C71C94704AC222226E38E494700
+  Next waypoint:
+    Lat: 49.99998092651367
+    Lon: -40.00001907348633
+    Alt: 38000.0 ft
+    ETA: 2023-07-07 15:41:04.500
+  Next+1 waypoint:
+    Lat: 47.99995422363281
+    Lon: -49.99998092651367
+    Alt: 38000.0 ft
+Tag 16 Meteorological data: 42B95E30
+    Wind speed: 66.5 kt
+    True wind direction: 322.03125 deg
+    Temperature: -58.0 C
+CRC: 9B14
+
+Registration: A6-EUJ    ICAO ID: 896474    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.A6-EUJ0301072C29C7A54EC94713D01D0C541176E52820100E923EBA0D2C19C78E33C946C3232B638F55438946C0E61C
+Tag 03 Acknowledgement: 01
+    Contract Number: 1
+Tag 07 Basic report: 2C29C7A54EC94713D01D
+    Latitude: 62.104339599609375
+    Longitude: -15.942020416259766
+    Altitude: 38000.0 ft
+    Timestamp: 2023-07-07 15:21:08.000
+    Position accuracy: <0.25 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 541176E52820
+    Flight ID: UAE69R
+Tag 16 Meteorological data: 0E923EBA
+    Wind speed: 14.5 kt
+    True wind direction: 101.953125 deg
+    Temperature: -40.75 C
+Tag 13 Predicted Route: 2C19C78E33C946C3232B638F55438946C0
+  Next waypoint:
+    Lat: 62.016448974609375
+    Lon: -20.003528594970703
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:34:31.000
+  Next+1 waypoint:
+    Lat: 61.0154914855957
+    Lon: -30.012245178222656
+    Alt: 37996.0 ft
+CRC: E61C
+
+Registration: ET-AVE    ICAO ID: 04014e    ATSU Adress: DKRCAYA - Dakar (Senegal)
+Channel Frequency: 1526070000
+/DKRCAYA.ADS.ET-AVE1411337FDD054A0293BC1F0D11D847E38CCA0242641292B7EADC8A02409B93
+Tag 20 Waypoint Change Event: 11337FDD054A0293BC1F
+    Latitude: 24.188976287841797
+    Longitude: -6.148738861083984
+    Altitude: 41000.0 ft
+    Timestamp: 2023-07-07 15:21:03.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 11D847E38CCA0242641292B7EADC8A0240
+  Next waypoint:
+    Lat: 25.094146728515625
+    Lon: -5.001010894775391
+    Alt: 40996.0 ft
+    ETA: 2023-07-07 15:31:15.000
+  Next+1 waypoint:
+    Lat: 26.11827850341797
+    Lon: -3.7157821655273438
+    Alt: 40996.0 ft
+CRC: 9B93
+
+Registration: G-XWBL    ICAO ID: 407cd1    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.G-XWBL07282E1F9E414946942C1F0C0815F9C4382010159E5EB00D288E5F8E51C946C2AF2944BF554DC946C05407
+Tag 07 Basic report: 282E1F9E414946942C1F
+    Latitude: 56.50320053100586
+    Longitude: -17.181758880615234
+    Altitude: 37992.0 ft
+    Timestamp: 2023-07-07 15:21:31.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 12 Flight ID: 0815F9C43820
+    Flight ID: BAW91C
+Tag 16 Meteorological data: 159E5EB0
+    Wind speed: 21.5 kt
+    True wind direction: 170.15625 deg
+    Temperature: -42.0 C
+Tag 13 Predicted Route: 288E5F8E51C946C2AF2944BF554DC946C0
+  Next waypoint:
+    Lat: 57.031917572021484
+    Lon: -19.982929229736328
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:32:58.000
+  Next+1 waypoint:
+    Lat: 58.03373336791992
+    Lon: -30.005207061767578
+    Alt: 37996.0 ft
+CRC: 5407
+
+Registration: G-XWBM    ICAO ID: 407cd2    ATSU Adress: QUKAXBA - London
+Channel Frequency: 1526070000
+/QUKAXBA.ADS.G-XWBM0711782034B9C985D5101FCD37
+Tag 07 Basic report: 11782034B9C985D5101F
+    Latitude: 24.566116333007812
+    Longitude: 9.268169403076172
+    Altitude: 39004.0 ft
+    Timestamp: 2023-07-07 15:22:28.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+CRC: CD37
+
+Registration: F-HSIS    ICAO ID: 39c912    ATSU Adress: PIKCPYA - Shanwick
+Channel Frequency: 1526070000
+/PIKCPYA.ADS.F-HSIS1420B5AFAA9A094715341F0D1FFFFF8E390946C6A71DDDDF71C74946C0C59B
+Tag 20 Waypoint Change Event: 20B5AFAA9A094715341F
+    Latitude: 45.997867584228516
+    Longitude: -15.011444091796875
+    Altitude: 38000.0 ft
+    Timestamp: 2023-07-07 15:22:37.000
+    Position accuracy: <0.05 nm
+    NAV redundancy: OK
+    TCAS: OK
+Tag 13 Predicted Route: 1FFFFF8E390946C6A71DDDDF71C74946C0
+  Next waypoint:
+    Lat: 44.99982833862305
+    Lon: -19.999923706054688
+    Alt: 37996.0 ft
+    ETA: 2023-07-07 15:51:00.000
+  Next+1 waypoint:
+    Lat: 41.999874114990234
+    Lon: -24.99990463256836
+    Alt: 37996.0 ft
+CRC: C59B
+
