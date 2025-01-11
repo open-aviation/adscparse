@@ -1,6 +1,6 @@
+import datetime
 import json
 import re
-from datetime import datetime
 from typing import Any, Dict, List, Optional, Pattern
 
 import pandas as pd
@@ -73,7 +73,9 @@ def parse_data(data: str, limit: Optional[int] = None) -> List[Dict[str, Any]]:
                     if key == "timestamp":
                         try:
                             value = (
-                                datetime.strptime(value, "%Y-%m-%d %H:%M:%S.%f")
+                                datetime.datetime.strptime(
+                                    value, "%Y-%m-%d %H:%M:%S.%f"
+                                )
                                 .replace(tzinfo=datetime.timezone.utc)
                                 .isoformat()
                             )
