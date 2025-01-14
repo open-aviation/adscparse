@@ -17,6 +17,23 @@ def to_snake_case(text: str) -> str:
     return s2.lower()
 
 
+def extract_timestamp(text: str) -> Optional[str]:
+    """Extract and format timestamp from a block of text."""
+    timestamp_match = re.search(r"Timestamp: (.*?)(?:\n|$)", text)
+    if timestamp_match:
+        try:
+            return (
+                datetime.datetime.strptime(
+                    timestamp_match.group(1).strip(), "%Y-%m-%d %H:%M:%S.%f"
+                )
+                .replace(tzinfo=datetime.timezone.utc)
+                .isoformat()
+            )
+        except ValueError:
+            pass
+    return None
+
+
 def parse_data(data: str, limit: Optional[int] = None) -> List[Dict[str, Any]]:
     flights: List[Dict[str, Any]] = []
     flight_pattern: Pattern = re.compile(
@@ -52,9 +69,14 @@ def parse_data(data: str, limit: Optional[int] = None) -> List[Dict[str, Any]]:
         tags_data: List[str] = match.group(5).strip().split("\n")
         current_tag: Optional[Dict[str, Any]] = None
 
+        # Extract timestamp from the entire block
+        block_timestamp = extract_timestamp(match.group(5))
+
         for line in tags_data:
             if line.startswith("Tag "):
                 if current_tag:
+                    if block_timestamp:
+                        current_tag["details"]["timestamp"] = block_timestamp
                     flight["tags"].append(current_tag)
 
                 tag_match = re.match(r"Tag (\d+) (.*?): (.*?)$", line)
@@ -70,21 +92,15 @@ def parse_data(data: str, limit: Optional[int] = None) -> List[Dict[str, Any]]:
                 if detail_match:
                     key = to_snake_case(detail_match.group(1).strip())
                     value = detail_match.group(2).strip()
-                    if key == "timestamp":
-                        try:
-                            value = (
-                                datetime.datetime.strptime(
-                                    value, "%Y-%m-%d %H:%M:%S.%f"
-                                )
-                                .replace(tzinfo=datetime.timezone.utc)
-                                .isoformat()
-                            )
-                        except ValueError:
-                            pass  # Keep original value if parsing fails
-                    current_tag["details"][key] = value
+                    if (
+                        key != "timestamp"
+                    ):  # Skip timestamp from details since we use block timestamp
+                        current_tag["details"][key] = value
 
         # Don't forget to append the last tag
         if current_tag:
+            if block_timestamp:
+                current_tag["details"]["timestamp"] = block_timestamp
             flight["tags"].append(current_tag)
 
         flights.append(flight)
